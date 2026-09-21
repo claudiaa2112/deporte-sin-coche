@@ -11,3 +11,5 @@ A partir de esta situación, el proyecto plantea resolver lo siguiente:
 - Un club con buena valoración deportiva pero mal conectado por 
   transporte público debe seguir siendo visible, pero identificado como 
   poco accesible.
+
+![Tarjeta Cliente](img/tarjeta_cliente.jpeg)
