@@ -1,6 +1,6 @@
 # DeporteSinCoche
 ## Descripcion
-Una jugadora de Voley va a empezar su vida universitaria en Granada, y no quiere dejar de jugar al deporte de su vida. El problema es que no conoce los clubes de la zona y tampoco tiene coche para poder moverse.
+Soy una jugadora de Voley y voy a empezar mi vida universitaria en Granada, pero no quiero dejar de jugar al deporte de mi vida. El problema es que no conozco los clubes de la zona y tampoco tengo coche para poder moverme.
 
 A partir de esta situación, el proyecto plantea resolver lo siguiente:
 
@@ -13,3 +13,6 @@ A partir de esta situación, el proyecto plantea resolver lo siguiente:
   poco accesible.
 
 ![Tarjeta Cliente](img/tarjeta_cliente.jpeg)
+
+## Configuración del repositorio"
+[Configuración SSH y perfil](docs/configuracion/)
