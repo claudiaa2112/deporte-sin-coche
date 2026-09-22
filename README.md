@@ -1,19 +1,20 @@
 # DeporteSinCoche
 ## Descripcion
-Soy una jugadora de Voley y voy a empezar mi vida universitaria en Granada, pero no quiero dejar de jugar al deporte de mi vida. El problema es que no conozco los clubes de la zona y tampoco tengo coche para poder moverme.
 
-A partir de esta situación, el proyecto plantea resolver lo siguiente:
-
-- Identificar los clubes deportivos federados en Granada de Voley a partir del 
-Registro Andaluz de Entidades Deportivas (RAED).
-- La accesibilidad de un club depende del transporte público disponible: 
-  paradas cercanas, líneas que pasan y frecuencia de paso, según los 
-  datos del Consorcio de Transportes de Granada (CTAN).
-- Un club con buena valoración deportiva pero mal conectado por 
-  transporte público debe seguir siendo visible, pero identificado como 
-  poco accesible.
+Mi hermana es una jugadora de voley y va a empezar su vida universitaria en Granada, pero no le gustaría dejar
+de jugar a lo que ella considera el deporte de su vida. El problema es que no tiene coche para poder ir a los 
+entrenamientos y partidos, y tiene que usar el transporte público.
+Me cuenta que en la provincia de Granada hay muchos clubes y si tuviera que visitarlos todos para poder
+hacer una comparación y decidir a cual apuntarse, le requeriría mucho tiempo y se perdería gran parte de la temporada.
+Su intención es visitar sedes de clubes para informarse sobre cada uno y así poder hacer una comparativa y elegir
+el mejor club. Uno de sus factores más importantes que esta teniendo en cuenta para tomar esta decisión es la 
+accesibilidad de cada club, puesto que no hay ninguno realmente cerca como para ir andando y por tanto, 
+le va a ser imperativo coger autobuses. Dice que ya ha visitado varios clubes que sobre el mapa
+están practicamente a la misma distancia pero que le fue mucho más fácil llegar a uno que a otro debido a 
+que le fue mucho más fácil combinar las líneas, paradas y frecuencias de los autobuses.
+Así, le resulta muy dificil evaluar y comparar objetivamente las distintas opciones de la provincia antes de tomar una decisión que marcará toda su temporada.
 
 ![Tarjeta Cliente](img/tarjeta_cliente.jpeg)
 
-## Configuración del repositorio"
+## Configuración del repositorio
 [Configuración SSH y perfil](docs/configuracion/)
