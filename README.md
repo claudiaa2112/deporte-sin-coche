@@ -4,7 +4,8 @@ Soy una jugadora de Voley y voy a empezar mi vida universitaria en Granada, pero
 
 A partir de esta situación, el proyecto plantea resolver lo siguiente:
 
-- Identificar los clubes deportivos federados en Granada de Voley a partir del      Registro Andaluz de Entidades Deportivas (RAED).
+- Identificar los clubes deportivos federados en Granada de Voley a partir del 
+Registro Andaluz de Entidades Deportivas (RAED).
 - La accesibilidad de un club depende del transporte público disponible: 
   paradas cercanas, líneas que pasan y frecuencia de paso, según los 
   datos del Consorcio de Transportes de Granada (CTAN).
