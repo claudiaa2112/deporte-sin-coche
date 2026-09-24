@@ -9,8 +9,7 @@ hacer una comparación y decidir a cual apuntarse, le requeriría mucho tiempo y
 Su intención es visitar sedes de clubes para informarse sobre cada uno y así poder hacer una comparativa y elegir
 el mejor club. Uno de sus factores más importantes que esta teniendo en cuenta para tomar esta decisión es la 
 accesibilidad de cada club, puesto que no hay ninguno realmente cerca como para ir andando y por tanto, 
-le va a ser imperativo coger autobuses. Dice que ya ha visitado varios clubes que sobre el mapa
-están practicamente a la misma distancia pero que le fue mucho más fácil llegar a uno que a otro debido a 
+le va a ser imperativo coger autobuses. Dice que ya ha visitado varios clubes que tienen una distania aparentemente similar pero que le fue mucho más fácil llegar a uno que a otro debido a 
 que le fue mucho más fácil combinar las líneas, paradas y frecuencias de los autobuses.
 Así, le resulta muy dificil evaluar y comparar objetivamente las distintas opciones de la provincia antes de tomar una decisión que marcará toda su temporada.
 
