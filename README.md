@@ -17,3 +17,12 @@ Así, le resulta muy dificil evaluar y comparar objetivamente las distintas opci
 
 ## Configuración del repositorio
 [Configuración SSH y perfil](docs/configuracion/)
+
+## Fuentes de datos
+Los datos necesarios para resolver este problema podemos obtenerlos de dos fuentes 
+públicas: 
+- El Consorcio de Transporte del Área de Granada (CTMGR) proporciona información sobre las líneas, paradas y frecuencias de los autobuses del área de Granada definida por el Consorcio (no solo la metropolitana).
+    -  Ejemplo de datos sobre las paradas de autobuses: [paradas_buses](docs/fuentes-datos/ejemplo-ctan-paradas.json)
+- Registro Andaluz de Entidades Deportivas (RAED) que es el registro oficial de clubes deportivos de la Junta de Andalucía, donde podemos consultar todos los equipos
+a los que mi hermana puede optar.
+    -  Ejemplo de datos sobre los equipos del área de Granada: [equipos_voley](docs/fuentes-datos/ejemplo-raed-resultado.html)
